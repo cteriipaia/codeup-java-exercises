@@ -48,8 +48,8 @@ public class HelloWorld {
 //    x /= y;         // This will result in a compilation error
 //    y -= x;         // This will result in a compilation error
 
-    System.out.println(x);
-    System.out.println(y);
+//    System.out.println(x);
+//    System.out.println(y);
 
 int bigNumber = Integer.MAX_VALUE + 1;
 System.out.println(bigNumber);
