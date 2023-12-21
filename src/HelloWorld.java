@@ -11,7 +11,7 @@ public class HelloWorld {
     System.out.println(myString);
 
     float myNumber =
-    myNumber = 3.14F; // This will result in a compilation error because 3.14 is a double, and you are trying to assign it to a float without explicit casting.
+    myNumber = 3.14F; // This will result in a compilation error because 3.14 is a double, and you are trying to assign it to a float 3.14 without explicit casting.
 
 //  myNumber = 123L; // This is valid. The value 123L is a long.
 
@@ -48,7 +48,6 @@ public class HelloWorld {
 //    x /= y;         // This will result in a compilation error
 //    y -= x;         // This will result in a compilation error
 
-//    System.out.println(x);
 //    System.out.println(y);
 
 int bigNumber = Integer.MAX_VALUE + 1;
